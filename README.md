@@ -24,7 +24,7 @@ You'll might need to install the `ipython` before moving to the next step using 
 pip install ipython
 ```
 
-### Make the virtual environment python executable available in Jupyter-Notebook
+### Make the virtual environment python executable available in jupyter-notebook
 
 ```
 ipython kernel install --user --name=<name_the_env>
